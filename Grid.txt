@@ -1,2 +1,3 @@
 print("Hello for everyone");
 print("I love my life");
+print("But I hate Eiffel);
