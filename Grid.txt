@@ -1,2 +1,2 @@
-print("Hello for everyone");
-print("I love my life");
+print("Hello for everyone")
+print("I love my life")
